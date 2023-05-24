@@ -36,3 +36,8 @@ body{
      background-color: #512DA8;
 }
 
+.card-header{
+    background-color: orange;
+    color:floralwhite;
+}
+
